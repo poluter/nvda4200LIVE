@@ -561,7 +561,7 @@
 }
 
 .div-block-32 {
-  justify-content: space-between;
+  justify-content: center;
   width: 18vw;
   margin-top: 1vw;
   display: flex;
