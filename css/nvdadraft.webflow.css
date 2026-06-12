@@ -561,10 +561,11 @@
 }
 
 .div-block-32 {
-  display: flex;
+     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
+    margin-top: 1vw;
 }
 
 .image-31, .image-32 {
